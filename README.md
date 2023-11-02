@@ -1,30 +1,30 @@
-# CSVExplorer
+# ExplodadorCSV
 
-## Description
+## Descrição
 
-This is a web application built with React that allows users to upload a CSV file from their local computer and search for data within the file. The CSV data is displayed as cards on the page, with each card showing the details of one row of the CSV file.
+Este é um aplicativo da web desenvolvido com React que permite aos usuários fazer upload de um arquivo CSV de seu computador local e pesquisar dados dentro do arquivo. Os dados CSV são exibidos como cartões na página, com cada cartão mostrando os detalhes de uma linha do arquivo CSV.
 
-## Prerequisites
+## Pré-requisitos
 
-Before using this application, make sure you have Node.js installed on your system.
+Antes de usar este aplicativo, certifique-se de ter o Node.js instalado em seu sistema.
 
-## Installation
+## Instalação
 
-To install the application, follow these steps:
+Para instalar o aplicativo, siga estas etapas:
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/jandsonrj/csvexplorer.git
-    ```
-
-2. Navigate to the project directory:
+1. Clone o repositório:
 
     ```bash
-    cd csvexplorer
+    git clone https://github.com/jandsonrj/explodadorcsv.git
     ```
 
-3. Install dependencies:
+2. Navegue até o diretório do projeto:
+
+    ```bash
+    cd exploradorcsv
+    ```
+
+3. Instale dependências:
 
     ```bash
     npm install
@@ -32,38 +32,38 @@ To install the application, follow these steps:
 
 ## Usage
 
-- To start the application, run the following command:
+- Para iniciar o aplicativo, execute o seguinte comando:
 
     ```bash
     npm run dev
     ```
 
-The application will be available at http://localhost:4000.
+O aplicativo estará disponível em http://localhost:3000.
 
-The following functionalities are available:
+As seguintes funcionalidades estão disponíveis:
 
-- Upload CSV File: Click the "Upload File" button to upload a CSV file from your computer.
-- Search data: Use the search bar to search data in the uploaded CSV file. The application will update the displayed cards to only show matching results.
-- Data Display: CSV data is displayed as cards on the page, with each card showing the details of a row of the CSV file.
+- Upload CSV File: Clique no "Upload File" botão para carregar um Arquivo CSV Do seu computador.
+- Dados de pesquisa: Use a barra de pesquisa para pesquisar dados no Arquivo CSV carregado. O aplicativo atualizará os cartões exibidos para mostrar apenas os resultados correspondentes.
+- Exibição de dados: Os dados CSV são exibidos como cartões na página, com cada cartão mostrando os detalhes de uma linha do arquivo CSV.
 
-## Automated Tests
+## Testes Automatizados
 
-- To run automated tests, use the following command:
+- Para executar testes automatizados, use o seguinte comando:
 
     ```bash
     npm run test
     ```
 
-## Contributing
+## Contribuindo
 
-If you want to contribute to this project, follow these steps:
+Se você quiser contribuir com este projeto, siga estes passos:
 
-1. Fork the repository.
-2. Create a branch with your feature: git checkout -b my-feature.
-3. Commit the changes: git commit -m 'Adding new feature'.
-4. Push to the branch: git push origin my-feature.
-5. Open a Pull Request.
+1. Bifurque o repositório.
+2. Crie um branch com seu recurso: git checkout -b my-feature.
+3. Confirme as alterações: git commit -m 'Adicionando novo recurso'.
+4. Empurre para o branch: git push origin my-feature.
+5. Abra uma solicitação pull.
 
-## License
+## Licença
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
