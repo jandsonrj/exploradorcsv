@@ -18,7 +18,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>CSV Explorer</h1>
+      <h1>Explorador CSV</h1>
 
       <SearchBar onSearch={handleSearch} />
 
