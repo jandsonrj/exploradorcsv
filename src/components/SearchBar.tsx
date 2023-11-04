@@ -18,13 +18,13 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
     };
 
     return (
-        <form onSubmit={handleSubmit} data-testid="search-form"> 
-         <input type="text"
-            value={query}
-            onChange={handleQueryChange}
-            className="input-container"
-            data-testid="search-input"
-         />
+        <form onSubmit={handleSubmit} data-testid="search-form">
+            <input type="text"
+                value={query}
+                onChange={handleQueryChange}
+                className="input-container"
+                data-testid="search-input"
+            />
             <button type="submit" className="button-container">Search</button>
         </form>
     );
