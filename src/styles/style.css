@@ -1,0 +1,35 @@
+.blinking-link {
+animation: blink 4s infinite;
+text-decoration: none;
+font-family: cursive;
+}
+
+@keyframes blink {
+0% {
+    color: #ff0000;
+}
+14% {
+    color: #ffff00;
+}
+28% {
+    color: #00ff00;
+}
+42% {
+    color: #00ffff;
+}
+50% {
+    color: #000;
+    }
+57% {
+    color: #0000ff;
+}
+71% {
+    color: #ff00ff;
+}
+85% {
+    color: #e5ff00;
+}
+100% {
+    color: #ffa500;
+}
+}

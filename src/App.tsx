@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import Card from './components/Card';
 import SearchBar from './components/SearchBar';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import './styles/App.css';
 
 interface CSVData {
@@ -18,11 +20,12 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>Explorador CSV</h1>
-
-      <SearchBar onSearch={handleSearch} />
-
+      <Header />
+      <div style={{ marginTop: '20%' }}>
+        <SearchBar onSearch={handleSearch} />
+      </div>
       <Card data={data} searchQuery={searchQuery} setData={setData} />
+      <Footer />
     </div>
   );
 };

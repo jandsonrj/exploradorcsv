@@ -17,7 +17,8 @@ const Card: React.FC<CardProps> = ({ data, searchQuery, setData }) => {
 
     useEffect(() => {
         const filtered = data.filter((row) => {
-            return row.name.toLowerCase().includes(searchQuery.toLowerCase());
+            return (row.name && row.name.toLowerCase().includes(searchQuery.toLowerCase())) ||
+                (row.nome && row.nome.toLowerCase().includes(searchQuery.toLowerCase()));
         });
         setFilteredData(filtered);
     }, [data, searchQuery]);
