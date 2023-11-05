@@ -1,4 +1,4 @@
-# ExplodadorCSV
+# ExploradorCSV
 
 ## Descrição
 
