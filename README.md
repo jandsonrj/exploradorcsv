@@ -2,6 +2,8 @@
 
 ## Descrição
 
+## Aprovado pela minha universidade 🏆
+
 Este é um aplicativo da web desenvolvido com React que permite aos usuários fazer upload de um arquivo CSV de seu computador local e pesquisar dados dentro do arquivo. Os dados CSV são exibidos como cartões na página, com cada cartão mostrando os detalhes de uma linha do arquivo CSV.
 
 ## Pré-requisitos
