@@ -35,4 +35,531 @@ export default App;
 
 // needed to import the default version of the application 
 
-// 2024 changes is coming... 
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
+// const App: React.FC = () => {
+  // const [data, setData] = useState<CSVData[]>([]);
+
+  // const [searchQuery, setSearchQuery] = useState<string>('');
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
