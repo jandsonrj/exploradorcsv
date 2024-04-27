@@ -60,3 +60,55 @@ const Card: React.FC<CardProps> = ({ data, searchQuery, setData }) => {
 };
 
 export default Card;
+
+
+//     return (
+//         <div>
+//             <input type="file" onChange={handleFileUpload} />
+//             <table>
+//                 <thead>
+//                     <tr>
+//                         {filteredData.length > 0 &&
+//                             Object.keys(filteredData[0]).map((key) => <th key={key}>{key}</th>)}
+//                     </tr>
+//                 </thead>
+//                 <tbody>
+//                     {filteredData.map((row, index) => (
+//                         <tr key={index}>
+//                             {Object.values(row).map((value, index) => (
+//                                 <td key={index}>{value}</td>
+//                             ))}
+//                         </tr>
+//                     ))}
+//                 </tbody>
+//             </table>
+//         </div>
+//     );
+// };
+
+// export default Card;
+//     return (
+//         <div>
+//             <input type="file" onChange={handleFileUpload} />
+//             <table>
+//                 <thead>
+//                     <tr>
+//                         {filteredData.length > 0 &&
+//                             Object.keys(filteredData[0]).map((key) => <th key={key}>{key}</th>)}
+//                     </tr>
+//                 </thead>
+//                 <tbody>
+//                     {filteredData.map((row, index) => (
+//                         <tr key={index}>
+//                             {Object.values(row).map((value, index) => (
+//                                 <td key={index}>{value}</td>
+//                             ))}
+//                         </tr>
+//                     ))}
+//                 </tbody>
+//             </table>
+//         </div>
+//     );
+// };
+
+// export default Card;
