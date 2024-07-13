@@ -563,3 +563,7 @@ export default App;
  // const handleSearch = (query: string) => {
    // setSearchQuery(query);
  // };
+
+ // const handleSearch = (query: string) => {
+   // setSearchQuery(query);
+ // };
